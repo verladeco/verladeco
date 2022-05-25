@@ -3,3 +3,4 @@ print('Gods time is the best')
 # same as saying echo deco
 print('for God is in control')
 print('God lives forever')
+print('forever and ever he lives')
